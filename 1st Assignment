@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UIT University First Assignment</title>
+</head>
+
+<body>
+    <center>
+        <h1>First Assignment</h1>
+    </center>
+
+    <ul>
+        <li>Red</li>
+        <li>Green</li>
+        <li>Yellow</li>
+        <li>Purple</li>
+        <li>Blue</li>
+    </ul>
+
+    <ol>
+        <li>Red</li>
+        <li>Green</li>
+        <li>Yellow</li>
+        <li>Purple</li>
+        <li>Blue</li>
+    </ol>
+    
+    <dl>
+        <dt>Red</dt>
+        <dd>Red is a vibrant and intense color often associated with passion, energy, and excitement. It can evoke strong emotions, symbolize love, and signify danger or warning.</dd>
+    </dl>
+    
+    <dl>
+        <dt>Green</dt>
+        <dd>Green is a refreshing and calming color often associated with nature, growth, and harmony. It symbolizes renewal, tranquility, and balance, evoking a sense of peace and well-being.</dd>
+    </dl>
+    
+    <p><b>Yellow is a bright and cheerful color symbolizing happiness, optimism, and energy.</b></p>
+    <p><i>Purple is a rich and regal color often associated with luxury, creativity, and spirituality.</i></p>
+
+    <u>Blue is a calm and serene color symbolizing trust, wisdom, and tranquility.</u>
+    <p><em>Red is an iconic color</em></p>
+
+<p>Red is 1<sup>st</sup> color of my Assignment.
+    <p>Green is 2<sub>nd</sub> color of my Assignment.
+        <p><Strong>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit debitis, aperiam ex culpa unde pariatur illum ipsa beatae eligendi earum!</Strong></p>
+        <br>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, dolore!</p>
+        <hr>
+        <p><ins>Purple is a rich and regal color</ins></p>
+        <p><del>Green is a refreshing and calming color</del></p>
+</p>
+
+</body>
+
+</html>
